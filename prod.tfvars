@@ -1,0 +1,5 @@
+rg = "prd-yaml-pipe2"
+appservice = "prdappsrvdemo2"
+appservicewebapp = "prdappsrvdemowebapp2"
+stoname="lukasstostadaprd2"
+name2="lukasst2ostadaprd2"
